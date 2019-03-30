@@ -1,0 +1,17 @@
+{
+  "name": "gulp-docwrite-scaffold",
+  "version": "1.0.0",
+  "author": "EdwardZhu",
+  "license": "ISC",
+  "devDependencies": {
+    "abs": "^1.3.13",
+    "gitdown": "^2.5.7",
+    "gulp-file-include": "^2.0.1",
+    "gulp-markdown": "^3.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-split-files": "^1.2.3"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
